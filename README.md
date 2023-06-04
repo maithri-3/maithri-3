@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to contribute to open source with my experience.
 <!-- -🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
-- 📫 How to reach me: https://www.linkedin.com/in/maithri2003/
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/maithri2003/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maithri" height="5" width="55" /></a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love Mathematics and Music. :)
 
