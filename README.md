@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: I love Mathematics and Music. :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maithri-3&label=Profile%20views&color=0e75b6&style=flat" alt="maithri-3" /> </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=msithri-3&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=maithri-3&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithri-3&theme=dark" />
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=maithri-3&theme=vision-friendly-dark" />
 
