@@ -19,4 +19,4 @@ Here are some ideas to get you started:-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithri-3&theme=dark" />
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=maithri-3&theme=vision-friendly-dark" />
 
-[![maithri-3's GitHub | Topics](https://stats.quine.sh/maithri-3/topics-over-time?theme=dark)](https://quine.sh)
+<!-- [![maithri-3's GitHub | Topics](https://stats.quine.sh/maithri-3/topics-over-time?theme=dark)](https://quine.sh) -->
